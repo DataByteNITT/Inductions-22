@@ -1,6 +1,13 @@
 # Inductions-22
-##### Fork the repo and create a pull request of your solution to this repository for the corresponding tasks 
+
+##### Fork the repo and create a pull request of your solution to this repository for the corresponding tasks
+
 ##### Note : Do not send pull requests to the main repo. Make sure you are sending requests inside your tasks folder
+Sentimental
+
+> medium link:
+> [https://medium.com/@advaith142001/farmers-protest-twitter-sentiment-analysis-a8aca1e52f43](https://medium.com/@advaith142001/farmers-protest-twitter-sentiment-analysis-a8aca1e52f43)
+=======
 Parameter :
 A variable that is internal to the the model and whose value can be estimated from data.
 -They are required by the model when making predictions
@@ -91,4 +98,4 @@ Final points,
 2.Find xnew that maximises the EI: xnew=argmaxEI(x).
 3.Compute the value of f for the point xnew.
 
-by iterating for different values we can make a perfect model or function which suits the actual function
+by iterating for different values we can make a perfect model or function which suits the actual functionmain
